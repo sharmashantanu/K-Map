@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1504635788 source:d:\other docs\5th semester\lab work\k-map\main.cpp
+	<iostream>
+	<math.h>
+
